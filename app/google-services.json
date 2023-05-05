@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282953670087",
+    "project_id": "brainwired-5708f",
+    "storage_bucket": "brainwired-5708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282953670087:android:2327bfa3b3eb4339dc0de2",
+        "android_client_info": {
+          "package_name": "com.example.brainwired"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282953670087-pte1t1dmolg7i58bhr83ea3ms87mvv4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brainwired",
+            "certificate_hash": "3d4f90bdd307434f1828ccca76c49e8079628301"
+          }
+        },
+        {
+          "client_id": "282953670087-os62hhnjoe0plk1tmf0g2cg1lbfo5hs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGgFOlqjai9DFjzGUOtx3wyeEa4QaIqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282953670087-os62hhnjoe0plk1tmf0g2cg1lbfo5hs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainWired</string>
+    <string name="brainwired">BrainWired</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
